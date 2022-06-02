@@ -1,0 +1,86 @@
+img {
+    width: 70%;
+    border: double #9b2915 5px;
+}
+
+.menu {
+    padding: 15.7px;
+    border: #ffd369;
+    background-color: #ffd369;
+    display: flex;
+    margin: 30px;
+    justify-content: center;
+    font-family: "Permanent Marker", display;
+}
+
+.minim {
+    padding: 10px;
+    border: solid 1px black;
+    border-width: 1px;
+    margin: 1px;
+    background-color: #9b2915;
+    color: #fbe2b1;
+}
+.minim:hover{
+    background: #332F2C;
+}
+
+.trending {
+    justify-content: flex-start;
+    display: block;
+    padding: 5px;
+    background-color: #ff993e;
+}
+
+body {
+    background-image: url("https://thelandgroup.com/wp-content/uploads/2015/03/farmland-1024x683.jpg");
+    background-repeat: no-repeat;
+    background-size: 3000px 3000px;
+}
+
+.dash {
+    background-color: #ff993e;
+    padding: 5px;
+    margin: 4px;
+    text-align: center;
+}
+
+.freinds {
+    display: flex;
+    justify-content: center;
+}
+
+
+.header {
+    background-color: #9b2915;
+}
+
+p {
+    font-family: "Architects Daughter", handwriting;
+}
+
+a {
+    font-family: "Architects Daughter", handwriting;
+}
+
+.deep {
+    color: #1c110a;
+}
+
+.focus {
+    font-family: "Permanent Marker", display;
+}
+
+.signature {
+    font-family: 'Lobster Two', cursive;
+    background-color: #ffd369;
+    padding: 5px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+nav{
+    display:flex;
+}
+   
